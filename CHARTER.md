@@ -1,4 +1,5 @@
 #the charter
+
 public unionism proposes that each city-state is composed of a two-sided system: a labor union and a capital union, joined by a charter that (broadly) outlines the obligations and rights of each permanent resident of the city-state
 
 the capital union is composed of every person with an equity stake in a corporation that is registered in the state. every corporation that operates in the state must register (sign onto the charter) with the union
